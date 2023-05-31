@@ -44,7 +44,7 @@ Test ekibi olarak aile üyelerimin tümüne bitirmiş olduğum ve benim daha ön
 
 
 
-### .SORU CEVAP EKRANI
+### 3.SORU CEVAP EKRANI
 
 <img width="336" alt="Ekran Resmi 2023-05-31 21 10 05" src="https://github.com/SitkiDizdar/2D-Fil-Konulu-Suruklemeli-Soru-Cevap-Oyunu/assets/65574088/4e0c44b9-81d7-42c0-b42f-dcb9a514c39a">
 
