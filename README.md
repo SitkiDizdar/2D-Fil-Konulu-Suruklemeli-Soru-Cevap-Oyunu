@@ -24,3 +24,43 @@ Test ekibi olarak aile üyelerimin tümüne bitirmiş olduğum ve benim daha ön
 ## EKRANLAR
 
 **GİRİŞ EKRANI**
+
+<img width="336" alt="Ekran Resmi 2023-05-31 21 09 00" src="https://github.com/SitkiDizdar/2D-Fil-Konulu-Suruklemeli-Soru-Cevap-Oyunu/assets/65574088/79e80963-7db6-4e45-aaa0-129ed165999c">
+
+
+
+
+
+**1.SORU CEVAP EKRANI**
+
+<img width="336" alt="Ekran Resmi 2023-05-31 21 09 37" src="https://github.com/SitkiDizdar/2D-Fil-Konulu-Suruklemeli-Soru-Cevap-Oyunu/assets/65574088/3be92ef2-2070-42f4-836d-cf60d64a806a">
+
+
+
+
+**2.SORU CEVAP EKRANI**
+
+<img width="336" alt="Ekran Resmi 2023-05-31 21 09 53" src="https://github.com/SitkiDizdar/2D-Fil-Konulu-Suruklemeli-Soru-Cevap-Oyunu/assets/65574088/06dd7973-cf50-4983-b067-0bdc9d9f083f">
+
+
+
+
+**3.SORU CEVAP EKRANI**
+
+<img width="336" alt="Ekran Resmi 2023-05-31 21 10 05" src="https://github.com/SitkiDizdar/2D-Fil-Konulu-Suruklemeli-Soru-Cevap-Oyunu/assets/65574088/4e0c44b9-81d7-42c0-b42f-dcb9a514c39a">
+
+
+
+
+
+**4.SORU CEVAP EKRANI**
+
+<img width="336" alt="Ekran Resmi 2023-05-31 21 10 14" src="https://github.com/SitkiDizdar/2D-Fil-Konulu-Suruklemeli-Soru-Cevap-Oyunu/assets/65574088/9aaf62fd-9d16-46e9-8802-4e4984343c7b">
+
+
+
+
+
+**BİTİRME EKRANI**
+
+<img width="336" alt="Ekran Resmi 2023-05-31 21 10 23" src="https://github.com/SitkiDizdar/2D-Fil-Konulu-Suruklemeli-Soru-Cevap-Oyunu/assets/65574088/b86e2cb4-f7ea-4776-9fa2-ddff246c9daf">
