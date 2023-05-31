@@ -19,7 +19,7 @@ Projemi bitirdikte sonra oyunun sıkıntısız şekilde çalışıp çalışmad�
 
 ## TEST EKİBİ
 
-Test ekibi olarak aile üyelerimin tümüne bitirmiş olduğum ve benim daha öncesinde test ettiğim oyunu denettim. Oyunu deneyimlerlerken gözlemlemede bulundum. Deneyimlerlerken, gözlemci olarak herhangibir hata ile karşılaşmadım. Aynı şekilde İş yeri eğitimini yapmış olduğum staj yerinde bulunan mühendislerede denetme fırsatım oldu ve oradaki gözlemlerime görede herhangibir problem ile karşılaşmadım.
+Test ekibi olarak aile üyelerimin tümüne bitirmiş olduğum ve benim daha öncesinde test ettiğim oyunu denettim. Oyunu deneyimlerlerken gözlemlemede bulundum. Gözlemci olarak herhangibir hata ile karşılaşmadım. Aynı şekilde İş yeri eğitimini yapmış olduğum staj yerinde bulunan mühendislerede denetme fırsatım oldu ve oradaki gözlemlerime görede herhangibir problem ile karşılaşmadım.
 
 ## EKRANLAR
 
