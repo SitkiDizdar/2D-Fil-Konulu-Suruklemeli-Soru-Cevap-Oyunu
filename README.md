@@ -30,13 +30,6 @@ Test ekibi olarak aile üyelerimin tümüne bitirmiş olduğum ve benim daha ön
 
 
 
-
-
-
-
-
-
-
 ### 1.SORU CEVAP EKRANI
 
 <img width="336" alt="Ekran Resmi 2023-05-31 21 09 37" src="https://github.com/SitkiDizdar/2D-Fil-Konulu-Suruklemeli-Soru-Cevap-Oyunu/assets/65574088/3be92ef2-2070-42f4-836d-cf60d64a806a">
@@ -44,7 +37,7 @@ Test ekibi olarak aile üyelerimin tümüne bitirmiş olduğum ve benim daha ön
 
 
 
-**2.SORU CEVAP EKRANI**
+### 2.SORU CEVAP EKRANI
 
 <img width="336" alt="Ekran Resmi 2023-05-31 21 09 53" src="https://github.com/SitkiDizdar/2D-Fil-Konulu-Suruklemeli-Soru-Cevap-Oyunu/assets/65574088/06dd7973-cf50-4983-b067-0bdc9d9f083f">
 
@@ -58,8 +51,7 @@ Test ekibi olarak aile üyelerimin tümüne bitirmiş olduğum ve benim daha ön
 
 
 
-
-**4.SORU CEVAP EKRANI**
+### 4.SORU CEVAP EKRANI
 
 <img width="336" alt="Ekran Resmi 2023-05-31 21 10 14" src="https://github.com/SitkiDizdar/2D-Fil-Konulu-Suruklemeli-Soru-Cevap-Oyunu/assets/65574088/9aaf62fd-9d16-46e9-8802-4e4984343c7b">
 
@@ -67,6 +59,6 @@ Test ekibi olarak aile üyelerimin tümüne bitirmiş olduğum ve benim daha ön
 
 
 
-**BİTİRME EKRANI**
+### BİTİRME EKRANI
 
 <img width="336" alt="Ekran Resmi 2023-05-31 21 10 23" src="https://github.com/SitkiDizdar/2D-Fil-Konulu-Suruklemeli-Soru-Cevap-Oyunu/assets/65574088/b86e2cb4-f7ea-4776-9fa2-ddff246c9daf">
