@@ -3,15 +3,19 @@
 <img width="405" alt="Ekran Resmi 2023-05-31 15 37 54" src="https://github.com/SitkiDizdar/2D-Fil-Konulu-Suruklemeli-Soru-Cevap-Oyunu/assets/65574088/4cf1d295-309f-41c4-a830-90964c1129e3">
 
 ## PROJE AMACI
-Projenin amacı yukarıdaki kartımızı Unity oyun motoru üzerinden bir 2D boyutlu oyuna çevirmek 
+Projenin amacı, Unity oyun motoru kullanarak yukarıdaki kartı 2D boyutlu bir oyuna dönüştürmektir.
 
-Bunun için ilk olarak bu kartı nasıl oyuna çeviririz aşamasıyla başlıyoruz.Biraz araştırmanın ardından önceden şıklı şekilde yaptığım soru cevap projemide göz önüne alarak bu seferde aynı soru cevap şeklinde yapıp ama bu sefer şıklar sürüklenecek şekilde olmasına karar verdim
+Proje geliştirme sürecine başlamadan önce kartın oyuna nasıl dönüştürüleceğini araştırmak için bir çalışma yapıldı.
 
-Projemin kodlama kısmını C# kodlama dili ile gerçekleştirdim
+Önceki şıklı soru cevap projesi referans alındı ve bu projede de soru cevap formatı kullanılmaya karar verildi.
 
-Projemde kod kısmı, gerçekleştirmiş olduğum oyunun içindeki Butonlarda ( Giriş ekranındaki BAŞLA butonu, Soru Cevap kısmındaki şıklar, Bitirme ekranındaki BAŞTAN BAŞLA butonu) ve Arkaya eklediğim Müziğin içinde bulunmaktadır.
+Ancak bu sefer, şıkların sürüklenebilir olmasına karar verildi, yani oyuncular şıkları fareleriyle sürükleyebilecekler.
 
-Kod kısımlarına yukarıda belirtmiş olduğum kısımlardan ulaşabilirsiniz
+Kodlama kısmı, C# programlama dili kullanılarak gerçekleştirildi.
+
+Kodlar, oyun içindeki butonlarda (giriş ekranındaki "BAŞLA" butonu, soru cevap kısmındaki şıklar, bitirme ekranındaki "BAŞTAN BAŞLA" butonu) ve arka plana eklenen müzikte bulunuyor.
+
+Kodlara, yukarıda bahsedilen bölümlerden erişilebilir.
 
 ## TEST AŞAMASI
 
