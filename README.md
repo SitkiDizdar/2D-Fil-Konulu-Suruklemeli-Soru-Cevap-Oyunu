@@ -20,7 +20,7 @@ Kodlara, yukarıda bahsedilen bölümlerden erişilebilir.
 ## TEST AŞAMASI
 
 Projemi tamamladıktan sonra oyunun sorunsuz bir şekilde çalışıp çalışmadığını deneyimledim. Bu süreçte, giriş ekranındaki "BAŞLA" butonunun ve bitirme ekranındaki "BAŞTAN BAŞLA" butonunun istediğim işlevleri yerine getirebildiğini gözlemledim. Ayrıca, Soru Cevap butonlarının sürüklenebilmesi, yanlış şıkkı boşluğa yerleştirdiğimizde geri dönebilme özelliğinin olması ve doğru şıkkı boşluğa yerleştirdiğimizde sıradaki ekrana geçebilme yeteneğine sahip olması gibi etkenleri kontrol ettim. Müziğin giriş ekranından itibaren kesintisiz olarak çalması da önemli bir unsurdu.
-Ancak, kendi gözlerimle tespit edemediğim veya gözden kaçmış olabilecek unsurlar olabileceğini düşündüğüm için projeyi yakın çevremdeki arkadaşlarıma ve aile üyelerime test ekibi olarak denettirdim.
+Ancak, kendi gözlerimle tespit edemediğim veya gözden kaçmış olabilecek unsurlar olabileceğini düşündüğüm için projeyi yakın çevremdeki arkadaşlarıma ve aile üyelerime, test ekibi olarak denettirdim.
 
 ## TEST EKİBİ
 
